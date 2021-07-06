@@ -26,7 +26,7 @@ SECRET_KEY = '3ifpm2l4#_m8ip_206g7wytv#fwf+o8$2p%$857=w0-$rtq=pk'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','carsellit.herokuapp.com/']
 
 
 # Application definition
